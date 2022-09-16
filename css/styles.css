@@ -9,10 +9,12 @@
     margin-top: 3em;
   }
   .container{
+    text-align: center;
     margin-bottom: 3em;
     margin-top: 3em;
+   
+ 
   }
-
   .container-fluid-form{
     margin-bottom: 3em;
     margin-top: 3em;
@@ -47,6 +49,11 @@
   
     text-align: center;
   text-justify: auto;
+  }
+
+  .col-text-wellcome{
+    justify-content: center;
+   margin-top: 2em;
   }
 
   
