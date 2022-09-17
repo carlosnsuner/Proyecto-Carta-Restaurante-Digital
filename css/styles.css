@@ -14,8 +14,12 @@
   text-align: center;
   margin-bottom: 3em;
   margin-top: 3em;
+  max-width: 975px;
 
+}
 
+.container-text-center{
+  align-items: center;
 }
 
 .container-fluid-form {
@@ -89,5 +93,9 @@
 }
 
 .card-title{
+  font-weight:bold;
+}
+
+.title-restaurant {
   font-weight:bold;
 }
