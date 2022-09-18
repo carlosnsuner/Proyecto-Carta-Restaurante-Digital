@@ -31,21 +31,59 @@ https://carlosnsuner.github.io/Proyecto-Carta-Restaurante-Digital/
 
 Todo el contenido ha sido realizado con HTML/CSS y contenido del repositorio de BootStrap. La web es responsive.
 
-## Contenido 📌
-
-Home:
+## Contenido Home:📌
 
 Slider de BootStrap:
 
-![alt text](/img/slider.PNG)
+![Slider](/img/slider.PNG)
 
 Logotipo y texto de referencia:
 
-![alt text](/img/textoprincipal.PNG)
+![Logo](/img/textoprincipal.PNG)
 
 Enlaces a los contenidos de las diferentes páginas ( Cards de BootStrap):
 
-![alt text](/img/enlaces.PNG)
+![Enlaces](/img/enlaces.PNG)
+
+## Contenido Carta:📌
+
+Imagen Principal:
+
+![Slider](/img/slidercarta.PNG)
+
+Nuestra carta:
+
+![Nuestra carta](/img/nuestracarta.PNG)
+
+Colocación del contenido de la carta con un ejemplo:
+
+![Nuestra carta](/img/entrantescarta.PNG)
+
+## Contenido Contacto:📌
+
+Imagen Principal:
+
+![Slider](/img/contactoimg.PNG)
+
+Formulario:
+
+![Formulario](/img/formulario.PNG)
+
+Situación:
+
+![Formulario](/img/situacion.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
